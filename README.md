@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Janani.D
+**- 👋 Hi, I’m Janani.D**
+
+  
  ![Data Scientist](https://www.cfainstitute.org/-/media/images/hero/a-data-scientist-at-work-providing-analytics-and-insights-to-investment-professionals2.jpg)
 
 - 👀 I’m interested in Frontend development and Data Science
