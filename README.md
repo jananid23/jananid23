@@ -1,6 +1,6 @@
 # Hi there, I'm Janani! 👋
 
-🎓 **Final Year Student - B.Tech in Artificial Intelligence & Data Science**  
+🎓B.Tech in Artificial Intelligence & Data Science**  
 📍 Trichy, India  
 📧 [jananid095@gmail.com](mailto:jananid095@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/janani-d-121233259/) | [GitHub](https://github.com/jananid23)
